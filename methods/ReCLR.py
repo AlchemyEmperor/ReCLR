@@ -1,1 +1,1 @@
-# The ReCLR code will be published as soon as the article is received. (*￣︶￣*)
+# The code of ReCLR will be published as soon as the manuscript is received. (*￣︶￣*)
