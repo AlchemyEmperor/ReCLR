@@ -1,6 +1,8 @@
 # ReCLR
  Leukocyte Classification Using Relative-Relationship-Guided Contrastive Learning
 
+ P.S. SeCLR is marked HeCLR in the code.
+
 # Datasets
 <!--[Peripheral Blood Cell](https://upcommons.upc.edu/handle/2117/386919)
 
