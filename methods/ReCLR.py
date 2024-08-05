@@ -83,12 +83,6 @@ class Model(torch.nn.Module):
         self.optimizer = Adam([{"params": self.net.parameters(), "lr": 0.001},
                                {"params": self.head.parameters(), "lr": 0.001}])
 
-        # checkpoint_path = "./checkpoint/VAE/BCISC1K/3_2/VAE_BCISC1K_conv4_seed_1024_epoch_1000.tar"
-        # checkpoint = torch.load(checkpoint_path)
-        # self.vae = VanillaVAE(in_channels=3, latent_dim=128)
-        # self.vae.load_state_dict(checkpoint["backbone"])
-        # for name, value in self.vae.named_parameters():
-        #     value.requires_grad = False
 
 
     def return_loss_fn(self, x, t=0.5, eps=1e-8, it=0, d_1=None, d_2=None):
