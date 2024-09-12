@@ -1,16 +1,5 @@
 #!/usr/bin/env python
 
-# The MIT License (MIT)
-# Copyright (c) 2020 Massimiliano Patacchiola
-# GitHub: https://github.com/mpatacchiola/self-supervised-relational-reasoning
-#
-# Implementation of the paper:
-# "A Simple Framework for Contrastive Learning of Visual Representations", Chen et al. (2020)
-# Paper: https://arxiv.org/abs/2002.05709
-# Code (adapted from):
-# https://github.com/pietz/simclr
-# https://github.com/google-research/simclr
-
 import math
 import time
 import collections
