@@ -8,6 +8,17 @@
 </p>
 
 # Train
+======================== Unsupervised Train ========================
+
+Step 1: Open the train_unsupervised2.py file
+
+Step 2: Ensure the dataset is set to Raabin-WBC in line 23
+
+Step 3: Change the model to simclr in line 30
+
+Step 4: Set the saved name to 1_6_pretrain in line 43
+
+After it finishes running, change the dataset in line 23 to PBC, and keep lines 30 and 43 the same. The two 1_6_pretrain models will be saved in different folders.
 
 ======================== Linear Evaluation ========================
 
