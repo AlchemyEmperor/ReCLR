@@ -37,7 +37,7 @@ Step 5: In line 41, set save_file to 6_6_finetune
 
 Step 6: In line 43, set finetune to True
 
-======================================== Domain Transfer (A2B/B2A) ========================================
+===================================== Domain Transfer (A2B/B2A) =====================================
 
 PBC → Raabin-WBC
 
