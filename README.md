@@ -86,4 +86,6 @@ Step 7: Run train_linear_evaluation.py
 # Datasets
 The PBC dataset can be found at the this [paper](https://upcommons.upc.edu/handle/2117/386919).
 
+The BCISC1K dataset can be found at the this [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201800488).
 
+The Raabin-WBC dataset can be found at the this [paper](https://www.nature.com/articles/s41598-021-04426-x).
