@@ -84,6 +84,6 @@ Step 7: Run train_linear_evaluation.py
 
 
 # Datasets
-The PBC dataset can be found at the this [paper]([https://arxiv.org/abs/2405.14506](https://upcommons.upc.edu/handle/2117/386919)).
+The PBC dataset can be found at the this [paper](https://upcommons.upc.edu/handle/2117/386919).
 
 
