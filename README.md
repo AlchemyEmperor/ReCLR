@@ -3,6 +3,10 @@
 
  P.S. SeCLR is marked HeCLR in the code.
 
+ <p align="center">
+  <img src="model.png" width="750px"/>
+</p>
+
 # Datasets
 <!--[Peripheral Blood Cell](https://upcommons.upc.edu/handle/2117/386919)
 
