@@ -89,3 +89,18 @@ The PBC dataset can be found at the this [paper](https://upcommons.upc.edu/handl
 The BCISC1K dataset can be found at the this [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201800488).
 
 The Raabin-WBC dataset can be found at the this [paper](https://www.nature.com/articles/s41598-021-04426-x).
+
+# Citation
+If you use this code for your research, please cite our [paper](https://www.sciencedirect.com/science/article/pii/S0957417424022577?via%3Dihub).
+```
+@article{LI2024125390,
+title = {Leukocyte classification using relative-relationship-guided contrastive learning},
+journal = {Expert Systems with Applications},
+pages = {125390},
+year = {2024},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2024.125390},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417424022577},
+author = {Zuoyong Li and Qinghua Lin and Jiawei Wu and Taotao Lai and Rongteng Wu and David Zhang}
+}
+```
