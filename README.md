@@ -7,8 +7,7 @@
   <img src="model.png" width="750px"/>
 </p>
 
-# Train
-======================== Unsupervised Train ========================
+# Unsupervised Train
 
 Step 1: Open the train_unsupervised2.py file
 
@@ -20,7 +19,7 @@ Step 4: Set the saved name to 1_6_pretrain in line 43
 
 After it finishes running, change the dataset in line 23 to PBC, and keep lines 30 and 43 the same. The two 1_6_pretrain models will be saved in different folders.
 
-======================== Linear Evaluation ========================
+# Linear Evaluation
 
 Step 1: Open train_linear_evaluation.py
 
@@ -34,7 +33,7 @@ Step 5: In line 41, set save_file to 3_6_linear
 
 Step 6: In line 43, set finetune to False
 
-======================== Fine Tuning ========================
+# Fine Tuning
 
 Step 1: Open train_linear_evaluation.py
 
@@ -48,7 +47,7 @@ Step 5: In line 41, set save_file to 6_6_finetune
 
 Step 6: In line 43, set finetune to True
 
-===================== Domain Transfer (A2B/B2A) =====================
+# Domain Transfer (A2B/B2A)
 
 PBC → Raabin-WBC
 
