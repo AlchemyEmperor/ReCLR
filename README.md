@@ -9,7 +9,7 @@
 
 # Train
 
-======================================== Linear Evaluation ========================================
+================================== Linear Evaluation ==================================
 
 Step 1: Open train_linear_evaluation.py
 
@@ -23,7 +23,7 @@ Step 5: In line 41, set save_file to 3_6_linear
 
 Step 6: In line 43, set finetune to False
 
-======================================== Fine Tuning ========================================
+================================== Fine Tuning ==================================
 
 Step 1: Open train_linear_evaluation.py
 
@@ -37,7 +37,7 @@ Step 5: In line 41, set save_file to 6_6_finetune
 
 Step 6: In line 43, set finetune to True
 
-===================================== Domain Transfer (A2B/B2A) =====================================
+=============================== Domain Transfer (A2B/B2A) ===============================
 
 PBC → Raabin-WBC
 
