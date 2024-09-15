@@ -93,14 +93,12 @@ The Raabin-WBC dataset can be found at the this [paper](https://www.nature.com/a
 # Citation
 If you use this code for your research, please cite our [paper](https://www.sciencedirect.com/science/article/pii/S0957417424022577?via%3Dihub).
 ```
-@article{LI2024125390,
-title = {Leukocyte classification using relative-relationship-guided contrastive learning},
-journal = {Expert Systems with Applications},
-pages = {125390},
-year = {2024},
-issn = {0957-4174},
-doi = {https://doi.org/10.1016/j.eswa.2024.125390},
-url = {https://www.sciencedirect.com/science/article/pii/S0957417424022577},
-author = {Zuoyong Li and Qinghua Lin and Jiawei Wu and Taotao Lai and Rongteng Wu and David Zhang}
+@article{li2024leukocyte,
+  title={Leukocyte classification using relative-relationship-guided contrastive learning},
+  author={Li, Zuoyong and Lin, Qinghua and Wu, Jiawei and Lai, Taotao and Wu, Rongteng and Zhang, David},
+  journal={Expert Systems with Applications},
+  pages={125390},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
